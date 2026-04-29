@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "LLM vs SLM for Math Problem Classification"
+type: software
+authors:
+  - family-names: Kalaga
+    given-names: Phanindra
+  - family-names: Chekuri
+    given-names: Prudhvi
+  - family-names: Reddygari
+    given-names: Deepika
+abstract: "A comparative NLP project evaluating LLM-style workflows, smaller transformer models, and classical baselines for classifying mathematical word problems."
+keywords:
+  - natural-language-processing
+  - math-problem-classification
+  - large-language-models
+  - small-language-models
+  - transformers
+  - kaggle
+license: MIT
+version: 0.1.0
+date-released: 2026-04-28
+repository-code: "https://github.com/your-org/llmvsslm"

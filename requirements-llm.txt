@@ -1,0 +1,11 @@
+# Optional dependencies for Llama fine-tuning, LLM-assisted data generation,
+# and heavyweight GPU notebook workflows.
+boto3
+trl
+unsloth
+xformers
+
+# vLLM is optional and is not available on every platform.
+# Install it in a compatible Linux/CUDA environment when reproducing
+# notebooks that use Gemma/vLLM paraphrase generation.
+vllm

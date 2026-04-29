@@ -1,17 +1,17 @@
+# Core dependencies for the demo, classical baselines, and smaller transformer workflows.
+datasets
+evaluate
 gdown
+joblib
+lightgbm
 numpy
 pandas
-scikit_learn
+scikit-learn
 scipy
 streamlit
 textattack
 torch
+torchaudio
+torchvision
 transformers
 xgboost
-unsloth
-torchvision 
-torchaudio 
-xformers
-lightgbm
-joblib
-evaluate
